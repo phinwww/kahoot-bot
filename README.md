@@ -8,6 +8,7 @@ prerequisites:
 - node.js v12 or higher 
 - npm
 
+the actual installation:
 - clone the repo
 - cd into the repo
 - run npm i
