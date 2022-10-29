@@ -5,8 +5,8 @@ this is the only official page for my kahoot bot project. instructions on how to
 ## installation
 
 prerequisites:
-node.js v12 or higher
-npm
+- node.js v12 or higher 
+- npm
 
 - clone the repo
 - cd into the repo
